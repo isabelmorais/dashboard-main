@@ -1,0 +1,6 @@
+"0","# READ THIS"
+"0","# https://pkgs.rstudio.com/flexdashboard/articles/flexdashboard.html "
+"0","inpatient_hospital_lite <- read_csv(""datasets/inpatient_hospital_lite.csv"")"
+"2","Error in read_csv(""datasets/inpatient_hospital_lite.csv"") : 
+  could not find function ""read_csv""
+"
