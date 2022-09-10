@@ -1,2 +1,2 @@
 # dashboard-main
- O meu primeiro repo
+ O meu primeiro repositório
